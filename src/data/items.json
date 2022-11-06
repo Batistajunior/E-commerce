@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 14",
+    "price": 730,
+    "imgUrl": "/public/imgs/iPhone-14.webp"
+  },
+  {
+    "id": 2,
+    "name": "Macbook M1",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Magic Mouse",
+    "price": 150,
+    "imgUrl": "/public/imgs/MagicMouse.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "IMac",
+    "price": 1800,
+    "imgUrl": "/public/imgs/IMac.jpg"
+  }
+]
